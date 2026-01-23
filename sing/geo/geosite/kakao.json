@@ -1,0 +1,13 @@
+{
+    "version": 3,
+    "rules": [
+        {
+            "domain_suffix": [
+                "kakao.com",
+                "kakaocdn.net",
+                "kakaocorp.com",
+                "kakaotalk.jp"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "version": 3,
+    "rules": [
+        {
+            "domain_suffix": [
+                "stackoverflow.com",
+                "stackexchange.com",
+                "askubuntu.com",
+                "bgptools-agent-cf.com",
+                "bgp.tools",
+                "dmm.com",
+                "dmm.co.jp",
+                "hyperliquid.xyz",
+                "walletconnect.org",
+                "trustwallet.com",
+                "arbitrum.io",
+                "twnodes.com",
+                "kiln.fi",
+                "posthog.com"
+            ]
+        }
+    ]
+}

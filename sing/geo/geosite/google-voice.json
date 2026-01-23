@@ -1,0 +1,15 @@
+{
+    "version": 3,
+    "rules": [
+        {
+            "domain_keyword": [
+                "telephony.goog",
+                "voice.google.com",
+                "voice.l.google.com"
+            ],
+            "domain_regex": [
+                "voice\\.[^.]+\\.google\\.com"
+            ]
+        }
+    ]
+}

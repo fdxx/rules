@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "rules": [
+        {
+            "domain_suffix": [
+                "nubia.cn",
+                "nubia.com"
+            ]
+        }
+    ]
+}

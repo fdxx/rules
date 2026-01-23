@@ -1,0 +1,13 @@
+{
+    "version": 3,
+    "rules": [
+        {
+            "domain_suffix": [
+                "go2map.com",
+                "sogo.com",
+                "sogou.com",
+                "sogoucdn.com"
+            ]
+        }
+    ]
+}

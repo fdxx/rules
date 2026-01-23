@@ -1,0 +1,13 @@
+{
+    "version": 3,
+    "rules": [
+        {
+            "domain_suffix": [
+                "launchpad.net",
+                "launchpadlibrarian.com",
+                "launchpadlibrarian.net",
+                "launchpadlibrarian.org"
+            ]
+        }
+    ]
+}

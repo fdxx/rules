@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "rules": [
+        {
+            "domain_suffix": [
+                "iadsdk.apple.com",
+                "iad.apple.com",
+                "qwapi.com"
+            ]
+        }
+    ]
+}

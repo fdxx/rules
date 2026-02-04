@@ -4628,7 +4628,9 @@
                 "qixingy.cn",
                 "upgod.cn",
                 "qwen.ai",
-                "deepseek.com"
+                "deepseek.com",
+                "svyun.com",
+                "halocloudnet.com"
             ],
             "domain_regex": [
                 ".+\\.cdnhwc([1-9]|10)\\.(cn|com)$",

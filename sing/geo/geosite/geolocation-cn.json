@@ -4630,7 +4630,9 @@
                 "deepseek.com",
                 "svyun.com",
                 "halocloudnet.com",
-                "wuyouyun.com"
+                "wuyouyun.com",
+                "alltuu.com",
+                "alltuu.cc"
             ],
             "domain_regex": [
                 ".+\\.cdnhwc([1-9]|10)\\.(cn|com)$",

@@ -4632,7 +4632,9 @@
                 "halocloudnet.com",
                 "wuyouyun.com",
                 "alltuu.com",
-                "alltuu.cc"
+                "alltuu.cc",
+                "huaban.com",
+                "gaoding.art"
             ],
             "domain_regex": [
                 ".+\\.cdnhwc([1-9]|10)\\.(cn|com)$",

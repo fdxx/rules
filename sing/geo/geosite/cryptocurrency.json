@@ -1,0 +1,30 @@
+{
+    "version": 3,
+    "rules": [
+        {
+            "domain_keyword": "binance",
+            "domain_suffix": [
+                "asterdex.com",
+                "trustwallet.com",
+                "hyperliquid.xyz",
+                "trade.xyz",
+                "bmwweb.solutions",
+                "bnappweb.black",
+                "bnbstatic.com",
+                "bnbchain.org",
+                "bntrace.com",
+                "bsappapi.cc",
+                "bsappapi.com",
+                "bscdnweb.com",
+                "nftstatic.com",
+                "saasexch.cc",
+                "saasexch.co",
+                "saasexch.com",
+                "saasexch.info",
+                "saasexch.io",
+                "appsflayer.com",
+                "appsflyersdk.com"
+            ]
+        }
+    ]
+}
